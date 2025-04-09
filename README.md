@@ -4,7 +4,7 @@ The project demonstrates the use of Cypress for web application testing.
 
 Project goal: testing the website [Conduit](https://cypress-testing-website.vercel.app/)
 
-Conduit is a blog platform, a clone of Medium.com. For this [project](https://github.com/psiyavush/cypress-testing-website), Conduit was set up as a separate project
+Conduit is a blog platform, a clone of Medium.com. For this project, Conduit was set up as a separate [project](https://github.com/psiyavush/cypress-testing-website)
 
 ---
 
