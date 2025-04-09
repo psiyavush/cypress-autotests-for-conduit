@@ -1,13 +1,17 @@
 # Cypress Autotests for Conduit
 
 The project demonstrates the use of Cypress for web application testing.
+
 Project goal: testing the website [Conduit](https://cypress-testing-website.vercel.app/)
+
 Conduit is a blog platform, a clone of Medium.com. For this [project](https://github.com/psiyavush/cypress-testing-website), Conduit was set up as a separate project
 
 ---
 
 Проект демонстрирует использование Cypress для тестирования веб-приложения. 
+
 Цель проекта: тестирование веб-сайта [Conduit](https://cypress-testing-website.vercel.app/)
+
 Conduit — это блог-платформа, клон Medium.com. Для этого проекта Conduit был собран в отдельный [проект](https://github.com/psiyavush/cypress-testing-website)
 
 ## Test cases
@@ -33,6 +37,7 @@ Test cases for automated tests are in this [folder](./test-cases/)
 * You must have node.js installed
 * Installation `npm install`
 * Run Cypress interface `npx cypress open`
+--
 
 * To run all tests in headless mode `npx cypress run --headless`
 
@@ -42,5 +47,6 @@ Test cases for automated tests are in this [folder](./test-cases/)
 * У вас должен быть установлен node js
 * Установка `npm install`
 * Запуск интерфейса Cypress `npx cypress open`
+--
 
 * Для запусков всех тестов в режиме headless `npx cypress run --headless` 
